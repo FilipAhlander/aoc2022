@@ -23,6 +23,6 @@ const run = (input) => {
   console.log(bPairs);
 }
 
-export function solutionA() {
+export function solutionAB() {
   run(data);
 }
