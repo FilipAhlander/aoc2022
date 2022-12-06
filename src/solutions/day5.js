@@ -48,7 +48,6 @@ function getVisibleCrates(matris) {
 
 const solutionA = () => {
   const { matris, instructions } = getData(data);
-  // console.log(matris);
   for (const instruction of instructions) {
     const [amount, from, to] = instruction;
     for (let i = 0; i < amount; i++) {
