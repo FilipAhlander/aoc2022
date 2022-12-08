@@ -5,11 +5,11 @@ import * as day4 from './solutions/day4.js';
 import * as day5 from './solutions/day5.js';
 import * as day6 from './solutions/day6.js';
 import * as day7 from './solutions/day7.js';
-// import * as day8 from './solutions/day8.js';
+import * as day8 from './solutions/day8.js';
 // import * as day9 from './solutions/day9.js';
 // import * as day10 from './solutions/day10.js';
 
-const time1 = Date.now();
+// const time1 = Date.now();
 
 // day1.solutionAB();
 
@@ -28,10 +28,10 @@ const time1 = Date.now();
 // day6.solutionB();
 
 // day7.solutionA();
-day7.solutionB();
+// day7.solutionB();
 
 // day8.solutionA();
-// day8.solutionB();
+day8.solutionB();
 
 // day9.solutionA();
 // day9.solutionB();
@@ -39,6 +39,6 @@ day7.solutionB();
 // day10.solutionA();
 // day10.solutionB();
 
-const time2 = Date.now();
+// const time2 = Date.now();
 
-console.log(time2 - time1)
+// console.log(time2 - time1)
