@@ -7,7 +7,7 @@ import * as day6 from './solutions/day6.js';
 import * as day7 from './solutions/day7.js';
 import * as day8 from './solutions/day8.js';
 import * as day9 from './solutions/day9.js';
-// import * as day10 from './solutions/day10.js';
+import * as day10 from './solutions/day10.js';
 
 // const time1 = Date.now();
 
@@ -34,10 +34,10 @@ import * as day9 from './solutions/day9.js';
 // day8.solutionB();
 
 // day9.solutionA();
-day9.solutionB();
+// day9.solutionB();
 
 // day10.solutionA();
-// day10.solutionB();
+day10.solutionB();
 
 // const time2 = Date.now();
 
